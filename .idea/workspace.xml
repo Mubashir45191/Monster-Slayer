@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b17640e5-bbc6-4d23-8c7f-cd82466339d3" name="Default Changelist" comment="">
+    <list default="true" id="b17640e5-bbc6-4d23-8c7f-cd82466339d3" name="Default Changelist" comment="half the game">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,12 +34,25 @@
       <option name="presentableId" value="Default" />
       <updated>1598367155288</updated>
       <workItem from="1598367156618" duration="894000" />
-      <workItem from="1598432182840" duration="3630000" />
+      <workItem from="1598432182840" duration="3969000" />
+      <workItem from="1598531380245" duration="2433000" />
     </task>
+    <task id="LOCAL-00001" summary="half the game">
+      <created>1598436054980</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598436054980</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="half the game" />
+    <option name="LAST_COMMIT_MESSAGE" value="half the game" />
   </component>
   <component name="WindowStateProjectService">
     <state x="92" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598435160661">
@@ -53,5 +67,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="383" y="0" key="Github.UntrackedFilesDialog/0.0.1280.680@0.0.1280.680" timestamp="1598433985984" />
+    <state x="133" y="5" key="Vcs.Push.Dialog.v2" timestamp="1598436061249">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="133" y="5" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1598436061249" />
   </component>
 </project>
